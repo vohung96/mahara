@@ -1,0 +1,23 @@
+/**
+ * CSS rules for the resume artefact plugin
+ *
+ * @author     Catalyst IT Ltd
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL version 3 or later
+ * @copyright  For copyright information on Mahara, please see the README file distributed with this software.
+ */
+.milestonestatus a {
+    margin-left: 5px;
+}
+#container #milestoneswrap table td.errmsg {
+   padding-left: 20px;
+}
+/* milestone facts */
+#factslist th.completed,
+#factslist td.completed,
+#factslist td.incomplete {
+    text-align: center;
+    padding-top: 8px;
+}
+.milestonefactdescription p {
+    margin: 0 0 5px;
+}

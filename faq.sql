@@ -1,0 +1,1 @@
+INSERT INTO site_content VALUES ('FAQ', '<p>This is FAQ page</p>', '2015-04-21 10:00:05', '2015-04-21 10:00:05', null, 'mahara')
